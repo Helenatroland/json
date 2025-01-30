@@ -5,7 +5,7 @@
   },
   "alder": 22,
   "studerende": true,
-  "interesser": ["Design", "Medier", "socialisering"],
+  "interesser": ["Design", "Medier", "Socialisering"],
   "adresse": {
     "vej": "Bagsværd Hovedgade 4",
     "by": "Bagsværd",
