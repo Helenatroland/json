@@ -1,0 +1,15 @@
+{
+  "navne": {
+    "fornavn": "Helena",
+    "efternavn": "Troland"
+  },
+  "alder": 22,
+  "studerende": true,
+  "interesser": ["Design", "Medier", "socialisering"],
+  "adresse": {
+    "vej": "Bagsværd Hovedgade 4",
+    "by": "Bagsværd",
+    "postnummer": 2880
+  },
+  "Fødselsdato": "2002-08-04"
+}
